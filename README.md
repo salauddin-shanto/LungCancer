@@ -97,5 +97,5 @@ To run the notebook and replicate the results:
   
 3. **Run the Notebook**: Open the lung-colon-cancer0.ipynb notebook in Kaggle or Jupyter Notebook, and execute the cells to run the model training and evaluation.
 
-4. **Examine the Results**: The notebook will output the training and validation accuracy and loss for each fold, confusion matrix, ROC curve, and other relevant plots to assess the model's performance.
+4. **Examine the Results**: The notebook will output the overall training and validation accuracy and loss, confusion matrix, ROC curve, and countplot to assess the model's performance.
 
