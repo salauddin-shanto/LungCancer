@@ -89,7 +89,7 @@ To run the notebook and replicate the results:
    You can clone this repository to your local machine using Git, or you can download the notebook directly from Kaggle.
 
    ```bash
-   git clone https://www.kaggle.com/your-username/your-project
+   https://github.com/salauddin-shanto/LungCancer.git
    
 2. **Set Up Your Environment: Install the required dependencies using pip:**
       ```bash
